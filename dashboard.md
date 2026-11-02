@@ -12,11 +12,17 @@ Dernière mise à jour : 2026-11-02
 - Skip : 6
 - Failures préexistantes : 21 (storeFacturation + motivation/masari/serie)
 
+## Vault Kunz
+- Repo : https://github.com/sinamind414/kunz-vault
+- Dernier commit : `73cd0ef`
+- Structure : PARA numérotée + `_index` + nightly logs automatisés (tâche planifiée 21h00)
+
 ## Décisions récentes
 - [[05_memories/decisions/2026-11-01-routeur-spa]]
 - [[05_memories/decisions/2026-11-01-menu-4-onglets]]
 
 ## Prochains pas
-- [ ] Implémenter nightly logs bots
-- [ ] Connecter bots au vault via AGENTS.md
-- [ ] Créer sources/programme-3AS.md
+- [ ] Connecter vault à Hermes memory provider (Mnemosyne/Hindsight optionnel)
+- [ ] Écriture effective des nightly logs par les bots (pas seulement template)
+- [ ] Enrichir `sources/programme-3AS.md` avec références sourcées
+- [ ] Tâche planifiée pour weekly review
