@@ -1,0 +1,10 @@
+# Fichiers locaux sensibles
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Fichiers générés par l’agent (sauf logs explicitement commités)
+.obsidian/workspace.json
+.obsidian/cache
+.trash/
