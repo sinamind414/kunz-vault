@@ -1,0 +1,20 @@
+﻿# Nightly log template
+
+---
+date: 2026-11-02
+author: atelier-pedagogique
+summary: RÃ©sumÃ© des actions du 2026-11-02 pour atelier-pedagogique
+---
+
+## Actions du jour
+- 
+
+## DÃ©cisions
+- 
+
+## Erreurs / Blocages
+- 
+
+## Liens
+- 
+
