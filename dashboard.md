@@ -1,6 +1,6 @@
 # Dashboard — Kunz El Ouloum
 
-Dernière mise à jour : 2026-11-02
+Dernière mise à jour : 2026-11-03
 
 ## Branches
 - `reorganisation-med` : synced, dernier commit `db3c13d`
@@ -16,6 +16,8 @@ Dernière mise à jour : 2026-11-02
 - Repo : https://github.com/sinamind414/kunz-vault
 - Dernier commit : `73cd0ef`
 - Structure : PARA numérotée + `_index` + nightly logs automatisés (tâche planifiée 21h00)
+- Memory provider : Mnemosyne installé et activé
+- Bots : 16 bots Kunz SVT (6 bots génériques à supprimer au redémarrage)
 
 ## Décisions récentes
 - [[05_memories/decisions/2026-11-01-routeur-spa]]

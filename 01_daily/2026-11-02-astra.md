@@ -1,4 +1,4 @@
-﻿# Nightly log template
+# Nightly log template
 
 ---
 date: 2026-11-02
