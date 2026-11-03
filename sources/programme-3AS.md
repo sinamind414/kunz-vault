@@ -11,10 +11,21 @@ Toute ajout doit être sourcé explicitement (document daté, auteur, référenc
 - `public/assets/svt/` : corpus QCM/assets
 - `LIVRE SVT BAC SCOLAIRE OFFICIEL.pdf` : manuel officiel (source ultime)
 
-## Références GitHub officielles (recherche 2026-11-03)
-- [`AzharZouhir/algerian-baccalaureate-archive`](https://github.com/AzharZouhir/algerian-baccalaureate-archive) — Archi SVT Bac Algérie (natural-sciences, corrections de copies) — non officiel, archive libre
-- [`creativekidsdigit/eduformation-algerie`](https://github.com/creativekidsdigit/eduformation-algerie) — Curriculum 3AS Algérie (programme officiel dérivé du ministère) — non officiel, dérivé
-- [`Commutator-IO/bacs`](https://github.com/Commutator-IO/bacs) — 39 épreuves du bac général corrigées — non officiel, corpus corrigés
+## Organisation officielle du programme 3AS (SVT)
+- **المجال الأول : التخصص الوظيفي للبروتينات (La spécialisation fonctionnelle des protéines)**
+  - الوحدة 1 : تركيب البروتين (Synthèse des protéines)
+  - الوحدة 2 : العلاقة بين بنية ووظيفة البروتين
+  - الوحدة 3 : النشاط الإنزيمي للبروتينات
+  - الوحدة 4 : دور البروتينات في الدفاع عن الذات
+  - الوحدة 5 : دور البروتينات في الاتصال العصبي
+- **المجال الثاني : التحولات الطاقوية (Les transformations énergétiques)**
+  - الوحدة 1 : آليات تحويل الطاقة الضوئية (Photosynthèse)
+  - الوحدة 2 : آليات تحويل الطاقة الكيميائية (Respiration cellulaire / fermentation)
+  - الوحدة 3 : تحويل الطاقة على المستوى الخلوي (w: التحوّلات الطاقوية فوق البنية الخلوية)
+- **المجال الثالث : التكتونية العامة (Tectonique globale)**
+  - الوحدة 1 : النشاط التكتوني للصفائح (نقل الصفائح، الطاقة الداخلية)
+  - الوحدة 2 : بنية الكرة الأرضية (الموجات الزلزالية، التركيب الكيميائي، النمذجة)
+  - الوحدة 3 : النشاط التكتوني والبنيات الجيولوجية (البناء، الغوص، التصادم، الأوفيوليت)
 
 ## Règles
 - Ne pas inventer de chapitre, notion, poids d’examen ou date du Bac.
