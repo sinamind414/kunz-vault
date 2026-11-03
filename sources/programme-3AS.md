@@ -11,6 +11,11 @@ Toute ajout doit être sourcé explicitement (document daté, auteur, référenc
 - `public/assets/svt/` : corpus QCM/assets
 - `LIVRE SVT BAC SCOLAIRE OFFICIEL.pdf` : manuel officiel (source ultime)
 
+## Références GitHub officielles (recherche 2026-11-03)
+- [`AzharZouhir/algerian-baccalaureate-archive`](https://github.com/AzharZouhir/algerian-baccalaureate-archive) — Archi SVT Bac Algérie (natural-sciences, corrections de copies) — non officiel, archive libre
+- [`creativekidsdigit/eduformation-algerie`](https://github.com/creativekidsdigit/eduformation-algerie) — Curriculum 3AS Algérie (programme officiel dérivé du ministère) — non officiel, dérivé
+- [`Commutator-IO/bacs`](https://github.com/Commutator-IO/bacs) — 39 épreuves du bac général corrigées — non officiel, corpus corrigés
+
 ## Règles
 - Ne pas inventer de chapitre, notion, poids d’examen ou date du Bac.
 - Toute entrée ici doit être vérifiée dans un fichier source et datée.
