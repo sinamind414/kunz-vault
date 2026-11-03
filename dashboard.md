@@ -26,5 +26,5 @@ Dernière mise à jour : 2026-11-03
 ## Prochains pas
 - [ ] Connecter vault à Hermes memory provider (Mnemosyne/Hindsight optionnel)
 - [ ] Écriture effective des nightly logs par les bots (pas seulement template)
-- [ ] Enrichir `sources/programme-3AS.md` avec références sourcées
+- [x] Enrichir `sources/programme-3AS.md` avec références sourcées (livre corrigé v1.0, bibliothèque SVT, programme national)
 - [ ] Tâche planifiée pour weekly review
